@@ -2,6 +2,12 @@
 
 Records of provenance for onchain artefacts. Next.js + Prisma Postgres, deployable to Vercel.
 
+## Credit
+
+Built by [Orb](https://github.com/orbism) as [orbism/bic-assets](https://github.com/orbism/bic-assets).
+This repository is the Bureau of Internet Culture's fork of that work; the codebase, data model,
+importer and media layer are his. Keep this section when editing the README.
+
 ## Running locally
 
 ```bash
